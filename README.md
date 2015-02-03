@@ -8,3 +8,18 @@
 [![devDependency Status](https://david-dm.org/we-are-next/honorific/dev-status.svg?style=flat)](https://david-dm.org/we-are-next/honorific#info=devDependencies)
 
 Lists of honorific name prefixes and suffixes.
+
+## Install
+
+```
+npm i --save honorific
+```
+
+## Use
+
+```js
+var honorific = require('honorific');
+
+console.log(honorific.prefixes);
+console.log(honorific.suffixes);
+```
