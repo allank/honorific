@@ -7,7 +7,7 @@
 [![Dependency Status](https://david-dm.org/we-are-next/honorific/status.svg?style=flat)](https://david-dm.org/we-are-next/honorific#info=dependencies)
 [![devDependency Status](https://david-dm.org/we-are-next/honorific/dev-status.svg?style=flat)](https://david-dm.org/we-are-next/honorific#info=devDependencies)
 
-Lists of honorific name prefixes and suffixes.
+Lists of honorific prefixes and suffixes.
 
 ## Install
 
