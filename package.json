@@ -1,0 +1,30 @@
+{
+  "name": "honorific",
+  "version": "1.0.0",
+  "description": "Lists of honorific name prefixes and suffixes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jscs index.js && jshint index.js && tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:we-are-next/honorific.git"
+  },
+  "keywords": [
+    "honorific",
+    "name",
+    "prefix",
+    "suffix"
+  ],
+  "author": "Wayne Ashley Berry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/we-are-next/honorific/issues"
+  },
+  "homepage": "https://github.com/we-are-next/honorific",
+  "devDependencies": {
+    "jscs": "^1.10.0",
+    "jshint": "^2.6.0",
+    "tape": "^3.5.0"
+  }
+}
