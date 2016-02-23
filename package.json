@@ -4,7 +4,8 @@
   "description": "Lists of honorific name prefixes and suffixes.",
   "main": "index.js",
   "scripts": {
-    "test": "jscs index.js && jshint index.js && tape test/*"
+    "pretest": "standard",
+    "test": "tape test/*"
   },
   "repository": {
     "type": "git",
@@ -23,8 +24,7 @@
   },
   "homepage": "https://github.com/we-are-next/honorific",
   "devDependencies": {
-    "jscs": "^1.10.0",
-    "jshint": "^2.6.0",
+    "standard": "^6.0.7",
     "tape": "^4.0.0"
   }
 }
