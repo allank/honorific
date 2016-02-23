@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:we-are-next/honorific.git"
+    "url": "git@github.com:wayneashleyberry/honorific.git"
   },
   "keywords": [
     "honorific",
@@ -20,9 +20,9 @@
   "author": "Wayne Ashley Berry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/we-are-next/honorific/issues"
+    "url": "https://github.com/wayneashleyberry/honorific/issues"
   },
-  "homepage": "https://github.com/we-are-next/honorific",
+  "homepage": "https://github.com/wayneashleyberry/honorific",
   "devDependencies": {
     "standard": "^6.0.7",
     "tape": "^4.0.0"

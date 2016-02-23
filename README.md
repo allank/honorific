@@ -35,3 +35,8 @@ const PrefixDropdown = React.createClass({
 
 ReactDOM.render(<PrefixDropdown />, document.body);
 ```
+
+#### License
+
+[MIT](http://opensource.org/licenses/MIT) © [Wayne Ashley
+Berry](http://www.wayneashleyberry.com)
