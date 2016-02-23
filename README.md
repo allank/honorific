@@ -3,8 +3,8 @@
 > Lists of honorific prefixes and suffixes.
 
 [![npm](https://img.shields.io/npm/v/honorific.svg?style=flat)](https://www.npmjs.com/package/honorific)
-[![Build Status](https://travis-ci.org/we-are-next/honorific.svg?branch=master)](https://travis-ci.org/we-are-next/honorific)
-[![Dependency Status](https://david-dm.org/we-are-next/honorific/status.svg?style=flat)](https://david-dm.org/we-are-next/honorific#info=dependencies)
+[![Build Status](https://travis-ci.org/wayneashleyberry/honorific.svg?branch=master)](https://travis-ci.org/wayneashleyberry/honorific)
+[![Dependency Status](https://david-dm.org/wayneashleyberry/honorific/status.svg?style=flat)](https://david-dm.org/wayneashleyberry/honorific#info=dependencies)
 
 #### Install
 
