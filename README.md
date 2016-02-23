@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/wayneashleyberry/honorific.svg?branch=master)](https://travis-ci.org/wayneashleyberry/honorific)
 [![Dependency Status](https://david-dm.org/wayneashleyberry/honorific/status.svg?style=flat)](https://david-dm.org/wayneashleyberry/honorific#info=dependencies)
 
-#### Install
+#### Installation
 
 ```
 npm i --save honorific
@@ -15,10 +15,10 @@ npm i --save honorific
 #### Usage
 
 ```js
-var honorific = require('honorific');
+var honorific = require('honorific')
 
-console.log(honorific.prefixes);
-console.log(honorific.suffixes);
+console.log(honorific.prefixes)
+console.log(honorific.suffixes)
 ```
 
 ```js
@@ -31,9 +31,9 @@ const PrefixDropdown = React.createClass({
     });
     return <select>{options}</select>
   }
-});
+})
 
-ReactDOM.render(<PrefixDropdown />, document.body);
+ReactDOM.render(<PrefixDropdown />, document.body)
 ```
 
 #### License
