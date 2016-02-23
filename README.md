@@ -20,3 +20,18 @@ var honorific = require('honorific');
 console.log(honorific.prefixes);
 console.log(honorific.suffixes);
 ```
+
+```js
+const honorific = require('honorific');
+
+const PrefixDropdown = React.createClass({
+  render: function() {
+    var options = honorific.prefixes.forEach(function (prefix, i)  {
+      return <option key={i}>{prefix}</option>
+    });
+    return <select>{options}</select>
+  }
+});
+
+ReactDOM.render(<PrefixDropdown />, document.body);
+```
