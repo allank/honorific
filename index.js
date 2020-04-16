@@ -1,10 +1,12 @@
 module.exports = {
 
   prefixes: [
+    'Alderman',
     'Dr',
     'Miss',
     'Mr',
     'Mrs',
+    'Ms',
     'Prof',
     'Rev'
   ],
